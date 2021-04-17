@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-road/static/css/main.f56fe7f9.chunk.css",
+    "main.js": "/monsters-road/static/js/main.f4b879e4.chunk.js",
+    "main.js.map": "/monsters-road/static/js/main.f4b879e4.chunk.js.map",
+    "runtime-main.js": "/monsters-road/static/js/runtime-main.c7419e97.js",
+    "runtime-main.js.map": "/monsters-road/static/js/runtime-main.c7419e97.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/monsters-road/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/monsters-road/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7eb9e59c.chunk.js": "/monsters-road/static/js/3.7eb9e59c.chunk.js",
+    "static/js/3.7eb9e59c.chunk.js.map": "/monsters-road/static/js/3.7eb9e59c.chunk.js.map",
+    "index.html": "/monsters-road/index.html",
+    "static/css/main.f56fe7f9.chunk.css.map": "/monsters-road/static/css/main.f56fe7f9.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/monsters-road/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7419e97.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.f56fe7f9.chunk.css",
+    "static/js/main.f4b879e4.chunk.js"
+  ]
+}
